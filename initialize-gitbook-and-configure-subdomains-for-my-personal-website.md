@@ -11,5 +11,5 @@ this was a trail to publish my wiki knowledge and Today I Learned wiki on GitBoo
 3. create a subdomain in[ ](https://docs.gitbook.com/hosting/custom-domains/dns-configuration#dns-settings)[cloudflare](https://docs.gitbook.com/hosting/custom-domains/dns-configuration#dns-settings)
 4. [connect GitBook with cloudflare](https://docs.gitbook.com/hosting/custom-domains/dns-configuration)
 
-\#Domains \#Subdomains \#gitbook \#configurations
+\#domains \#subdomains \#gitbook \#configurations
 
