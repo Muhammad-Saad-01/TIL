@@ -2,7 +2,7 @@
 
 Joining Data using SQL
 
-* [ ] Inner Join
+* [x] Inner Join
 * [ ] Self Join
 * [ ] Outer Join
 * [ ] Cross Join
