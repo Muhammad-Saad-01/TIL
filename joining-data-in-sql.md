@@ -3,13 +3,12 @@
 Joining Data using SQL
 
 * [x] Inner Join
-* [ ] Self Join
-* [ ] Outer Join
-* [ ] Cross Join
-* [ ] Set theory clauses
-* [ ] SubQueries
+* [x] Self Join
+* [x] Outer Join
+* [x] Cross Join
+* [x] Set theory clauses
+* [x] SubQueries
 
 
 
 [DataCamp](https://campus.datacamp.com/courses/joining-data-in-postgresql)
-
